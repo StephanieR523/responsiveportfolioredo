@@ -1,6 +1,6 @@
-# Bootstrap-Portfolio
+# Responsive Portfolio w/ Media Queries
 
-Used bootstrap for buttons, responsiveness, and navbar. Along with CSS and HTML. A catelog of msot of my work so far during the Rutgers Coding Bootcamp.
+Used bootstrap for buttons, responsiveness, and navbar. Along with CSS and HTML. A catelog of most of my work so far during the Rutgers Coding Bootcamp.
 
 Links below screenshots of websites for: GitHub-Hosted/ Heroku-Deployed apps and GitHub Repository.
 
